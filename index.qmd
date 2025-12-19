@@ -1,11 +1,11 @@
 ---
-title: "Annual Meeting 2025 - Health Modelling & Forecasting"
+title: "Annual Meeting 2026 - Environmental Modelling & Forecasting"
 image: Logos/Logo_NoBackground.png
 ---
 
 # Key Outcomes
 
-This full-day event will bring together experts in a range of fields from industry, academia, and government to discuss cutting-edge research and explore collaborative opportunities within health.
+This full-day event will bring together experts in a range of fields from industry, academia, and government to discuss cutting-edge research and explore collaborative opportunities within environmental science. 
 
 Meeting participants will:
 
@@ -24,10 +24,10 @@ This event and the subsequent forecasting contests have been funded by The Alan 
 |:---|:---|----|
 | 9:30-10:00 | Arrivals & Registration |  |
 | 10:00-10:15 | Introduction from the SPHERE-PPL Team | Meet the team and an introduction to the vision |
-| 10:15-10:40 | Keynote 1 - [Dr Hannah Rose Vineer](https://www.liverpool.ac.uk/people/hannah-vineer) | One Health Vector-Bourne Disease Hub |
-| 10:40-11:00 | Keynote 2 - [Dr Richard Wood](https://www.linkedin.com/in/richard-wood-aa647188/) | Insights from Modelling & Analytics within the NHS |
+| 10:15-10:40 | Keynote 1 - [Julie Smith](https://adas.co.uk/team/julie-smith/) | ADAS |
+| 10:40-11:00 | Keynote 2 - [Dr Will Pearse](https://profiles.imperial.ac.uk/will.pearse) | Imperial College London |
 | 11:00-11:30 | Coffee Break |  |
-| 11:30-12:15 | Break-Out Discussion | Identifying key challenges in health policy |
+| 11:30-12:15 | Break-Out Discussion | Identifying key challenges in environmental science |
 | 12:15-12:45 | Break-Out Feedback | 2-minute presentations on challenges |
 | 12:45-13:45 | Lunch |  |
 | 13:45-13:55 | Presentation | Building a Forecasting Contest |
@@ -43,13 +43,13 @@ This event and the subsequent forecasting contests have been funded by The Alan 
 # Presentations
 
 -   [Main Slides](Presentations/DayPlan/Full%20Presentation.pdf)
--   [Keynote 1 - Dr. Hannah Rose Vineer]()
--   [Keynote 2 - Dr. Richard Wood]()
+-   [Keynote 1 - Julie Smith]()
+-   [Keynote 2 - Dr. Will Pearse]()
 
 # Activities
 
--   [**Mural Link**](https://app.mural.co/t/sphereppl5956/m/sphereppl5956/1736845136604/d3b42e58135ce06fb8ea81fdd4d80ea77cfa0ced?sender=uf2c41d236992d717f49e6444)
--   Activity 1 - Identifying Key Challenges in Health Policy [word](Activities/Activity1.docx)
+-   [**Mural Link**](https://app.mural.co/t/sphereppl4071/m/sphereppl4071/1764943565050/2e0abdf5be5758951328485f941acf3807ca9bf2?sender=uc5129d1a7e799d0345083085)
+-   Activity 1 - Identifying Key Challenges in Environmental Science [word](Activities/Activity1.docx)
 -   Activity 2 - Designing a Forecasting Contest [word](Activities/Activity2.docx)
 -   Activity 3 - Building a Community [word](Activities/Activity3.docx)
 
