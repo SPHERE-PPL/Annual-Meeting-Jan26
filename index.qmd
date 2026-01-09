@@ -23,28 +23,32 @@ This event and the subsequent forecasting contests have been funded by The Alan 
 | Timings | Activity | Description |
 |:---|:---|----|
 | 9:30-10:00 | Arrivals & Registration |  |
-| 10:00-10:15 | Introduction from the SPHERE-PPL Team | Meet the team and an introduction to the vision |
+| 10:00-10:15 | Introduction from the SPHERE-PPL Team - Will Pearse | Meet the team and an introduction to the vision |
 | 10:15-10:40 | Keynote 1 - [Julie Smith](https://adas.co.uk/team/julie-smith/) | ADAS |
-| 10:40-11:00 | Keynote 2 - [Dr Will Pearse](https://profiles.imperial.ac.uk/will.pearse) | Imperial College London |
-| 11:00-11:30 | Coffee Break |  |
-| 11:30-12:15 | Break-Out Discussion | Identifying key challenges in environmental science |
-| 12:15-12:45 | Break-Out Feedback | 2-minute presentations on challenges |
-| 12:45-13:45 | Lunch |  |
-| 13:45-13:55 | Presentation | Building a Forecasting Contest |
-| 13:55-14:30 | Break-Out Design | Groups design forecasting contests |
-| 14:30-15:00 | Break-Out Feedback | Group feedback and discussion of contest priorities |
-| 15:00-15:30 | Coffee Break |  |
-| 15:30-15:40 | Presentation | What can SPHERE-PPL do for you? |
-| 15:40-16:00 | Break-Out Discussion | Brainstorming requests for workshops, training and support |
-| 16:00-16:30 | Break-Out Feedback | Creating a community priority list |
-| 16:30-17:00 | Wrap-Up |  |
+| 10:40-11:00 | Keynote 2 - [Dr Robin Freeman](https://www.zsl.org/about-zsl/our-people/dr-robin-freeman) | Zoological Society of London |
+| 11:00-11:25 | Coffee Break |  |
+| 11:25-11:35 | Presentation - Rich Wood | Forecasting Severe System Pressure in the NHS |
+| 11:35-12:20 | Break-Out Discussion | Activity 1 - Identifying key challenges in environmental science |
+| 12:20-12:50 | Break-Out Feedback | 2-minute presentations on challenges |
+| 12:50-13:50 | Lunch |  |
+| 13:50-14:00 | Lyme Disease Contest Prize Giving |  |
+| 14:00-14:10 | Presentation - Will Pearse | Building a Forecasting Contest |
+| 14:10-14:45 | Break-Out Design | Activity 2 - Groups design forecasting contests |
+| 14:45-15:15 | Break-Out Feedback | Group feedback and discussion of contest priorities |
+| 15:15-15:40 | Coffee Break |  |
+| 15:40-16:05 | Keynote 3 - [Dr Eric Daub](https://www.turing.ac.uk/people/researchers/eric-daub) | The Alan Turing Institute |
+| 16:05-16:15 | Presentation - Will Pearse | What can SPHERE-PPL do for you? |
+| 16:15-16:35 | Break-Out Discussion | Activity 3 - Brainstorming requests for workshops, training and support |
+| 16:35-16:55 | Break-Out Feedback | Creating a community priority list |
+| 16:55-17:00 | Wrap-Up |  |
 :::
 
 # Presentations
 
 -   [Main Slides](Presentations/DayPlan/Full%20Presentation.pdf)
 -   [Keynote 1 - Julie Smith]()
--   [Keynote 2 - Dr. Will Pearse]()
+-   [Keynote 2 - Dr. Robin Freeman]()
+-   [Keynote 3 - Dr. Eric Daub]()
 
 # Activities
 
